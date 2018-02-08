@@ -22,3 +22,7 @@ java Node 3 3
 
 *****************************************************************************************************
 
+The abave program is done in local host  = "127.0.0.1" 
+Can be changed to IP addresses of  Systems in the distributed environment
+
+*****************************************************************************************************
